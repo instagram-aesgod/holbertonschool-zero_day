@@ -1,1 +1,1 @@
-My firs commit
+My first commit as a full-stack engineer
